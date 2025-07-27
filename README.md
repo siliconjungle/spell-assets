@@ -7,6 +7,6 @@ It includes:
 - gifs
 - prompts
 - expanded prompts
-- embeddings
+- embeddings (openai text-embedding-3-large)
 - dimensions
 - seed
