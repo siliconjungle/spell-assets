@@ -9,4 +9,4 @@ It includes:
 - expanded prompts
 - embeddings (openai text-embedding-3-large)
 - dimensions
-- seed
+- seeds
